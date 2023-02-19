@@ -9655,3 +9655,6 @@ Caused by: java.io.IOException: The pipe is being closed
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-19 09:46:10.590
 !MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-19 09:46:15.450
+!MESSAGE Boot LS startup time from start to initialized: 4858ms
